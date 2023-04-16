@@ -1,0 +1,47 @@
+.inner {
+  width: 100%;
+  max-width: 1000px;
+  margin: 10px auto;
+  padding: 0 10px;
+}
+
+.sns .icon-line {
+  display: block;
+  padding: 20px 30px;
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color: #00B900;
+  text-decoration: none;
+  text-align: center;
+}
+.sns .icon-instagram {
+  display: block;
+  padding: 20px 30px;
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color: #CF2E92;
+  text-decoration: none;
+  text-align: center;
+}
+.sns .icon-facebook {
+  display: block;
+  padding: 20px 30px;
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color: #71d0f2;
+  text-decoration: none;
+  text-align: center;
+}
+.sns .icon-twitter {
+  display: block;
+  padding: 20px 30px;
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color: #1DA1F2;
+  text-decoration: none;
+  text-align: center;
+}
